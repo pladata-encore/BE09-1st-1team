@@ -32,7 +32,7 @@
 ![Image](https://github.com/user-attachments/assets/7ee0107d-41e4-46e3-a2ad-2aaafd15adbb)
 
 
-## 📋 요구사항 명세서
+## 요구사항 명세서
 
 <details>
 <summary>요구사항 명세서 미리보기</summary>
