@@ -6,7 +6,7 @@
 ## 📋 목차
 - [프로젝트 개요](#프로젝트-개요)
 - [참고 자료](#-참고-자료)
-- [이미지로 미리보기](#요구사항-명세서-미리보기)
+- [요구사항 명세서](#요구사항-명세서-미리보기)
 - [주요 기능](#-주요-기능)
 - [기술 스택](#-기술-스택)
 - [MSA 설계서](#-MSA-설계서)
@@ -20,7 +20,7 @@
 **프로젝트명**: 책갈피
 - **개발 기간**: 2025-04-22 ~ 2025-04-24
 - **목표**: Git, MySQL, JDBC, Java 등을 활용하여 데이터베이스와 연동하는 도서관리 시스템 개발
-- **팀원** : 이석진 박준범 이주희 박범석
+- **팀원**: 이석진 박준범 이주희 박범석
 
 ## 📑 참고 자료
 참고 사이트 : [경기도사이버도서관](https://www.library.kr/cyber/)
@@ -30,6 +30,19 @@
 ![Image](https://github.com/user-attachments/assets/83dccda4-394b-4b1e-ac93-419a77512d2e)
 - 도서 상세 정보  
 ![Image](https://github.com/user-attachments/assets/7ee0107d-41e4-46e3-a2ad-2aaafd15adbb)
+
+
+## 📋 요구사항 명세서
+
+<details>
+<summary>요구사항 명세서 미리보기</summary>
+
+![Image](https://github.com/user-attachments/assets/e8a8b571-a382-426b-902c-89ee5a28a365)
+![Image](https://github.com/user-attachments/assets/5d0cf156-dc16-4c7f-b586-5e53803c1c75)
+![Image](https://github.com/user-attachments/assets/f7048cba-efd1-4ed3-8e51-03e300faa95e)
+
+</details>
+
 
 ## ✨ 주요 기능
 - 🔍 **도서 검색**: 제목, 저자, 출판사 등 키워드 기반 검색
@@ -86,17 +99,6 @@ src/
 1. `MySQL` 서버 실행
 2. `application.properties` 또는 `DBUtil.java`에 DB 연결 정보 설정
 3. `Main.java` 실행
-
-## 📋 요구사항 명세서
-
-<details>
-<summary>요구사항 명세서 미리보기</summary>
-
-![Image](https://github.com/user-attachments/assets/e8a8b571-a382-426b-902c-89ee5a28a365)
-![Image](https://github.com/user-attachments/assets/5d0cf156-dc16-4c7f-b586-5e53803c1c75)
-![Image](https://github.com/user-attachments/assets/f7048cba-efd1-4ed3-8e51-03e300faa95e)
-
-</details>
 
 
 ## 📸 스크린샷
