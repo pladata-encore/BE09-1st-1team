@@ -5,15 +5,15 @@
 
 ## 📋 목차
 - [프로젝트 개요](#프로젝트-개요)
+- [참고 자료](#-참고-자료)
 - [주요 기능](#-주요-기능)
 - [기술 스택](#-기술-스택)
 - [MSA 설계서](#-MSA-설계서)
 - [프로젝트 구조](#-프로젝트-구조)
-- [프로젝트 문서](#-프로젝트-문서)
 - [데이터베이스 설계](#-데이터베이스-설계)
+- [프로젝트 문서](#-프로젝트-문서)
 - [실행 방법](#-실행-방법)
 - [스크린샷](#-스크린샷)
-- [참고 자료](#-참고-자료)
 - [실행 결과](#-실행-결과)
 
 ## 프로젝트 개요
@@ -21,6 +21,9 @@
 - **개발 기간**: 2025-04-22 ~ 2025-04-24
 - **목표**: Git, MySQL, JDBC, Java 등을 활용하여 데이터베이스와 연동하는 도서관리 시스템 개발
 - **팀원** : 이석진 박준범 이주희 박범석
+
+## 📑 참고 자료
+참고 사이트 : [경기도사이버도서관](https://www.library.kr/cyber/)
 
 ## ✨ 주요 기능
 - 🔍 **도서 검색**: 제목, 저자, 출판사 등 키워드 기반 검색
@@ -55,13 +58,6 @@ src/
 └── util/      # 공용 유틸리티 클래스
 ```
 
-## 📋 프로젝트 문서
-- [📋 기획서](https://www.notion.so/coffit23/22aa02b1ffb1807e9224f60965b2321d)
-- [📋 요구사항 정의서](https://www.notion.so/coffit23/22aa02b1ffb180768452fbb63660b98f)  
-- [📋 스토리보드](https://docs.google.com/document/d/1dT8QB0bRtqU7c-iLxwGUXjOcIW8KlG4hMT0vT1yrZoU/edit?usp=sharing)
-- [📋 MSA 설계서](https://www.notion.so/coffit23/MSA-22aa02b1ffb180b5810df84f657d1a93)
-
-
 ## 🗂 데이터베이스 설계 
 
 ### ERD
@@ -70,6 +66,13 @@ src/
 
 ### 물리 설계
 ![Image](https://github.com/user-attachments/assets/0ed6be9a-a11b-4132-bf00-2191fa27e529)
+
+
+## 📋 프로젝트 문서
+- [📋 기획서](https://www.notion.so/coffit23/22aa02b1ffb1807e9224f60965b2321d)
+- [📋 요구사항 정의서](https://www.notion.so/coffit23/22aa02b1ffb180768452fbb63660b98f)  
+- [📋 스토리보드](https://docs.google.com/document/d/1dT8QB0bRtqU7c-iLxwGUXjOcIW8KlG4hMT0vT1yrZoU/edit?usp=sharing)
+- [📋 MSA 설계서](https://www.notion.so/coffit23/MSA-22aa02b1ffb180b5810df84f657d1a93)
 
 
 ## ▶ 실행 방법
@@ -95,9 +98,6 @@ src/
 ![Image](https://github.com/user-attachments/assets/5d0cf156-dc16-4c7f-b586-5e53803c1c75)
 
 ![Image](https://github.com/user-attachments/assets/f7048cba-efd1-4ed3-8e51-03e300faa95e)
-
-## 📑 참고 자료
-참고 사이트 : [경기도사이버도서관](https://www.library.kr/cyber/)
 
 
 ## 📋 실행 결과
