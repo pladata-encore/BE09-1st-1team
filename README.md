@@ -103,7 +103,8 @@ src/
 
 ## 📋 실행 결과
 ### 🔍 주요 기능 미리보기
-![메인 메뉴 화면]<img src="https://github.com/user-attachments/assets/9ac79af8-a125-40ca-8e58-d40b701cfe02" alt="메인 메뉴 화면" width="400"/>
+**메인 메뉴 화면**
+![메인 메뉴 화면](img src="https://github.com/user-attachments/assets/9ac79af8-a125-40ca-8e58-d40b701cfe02" alt="메인 메뉴 화면" width="400"/)
 ![도서 검색]<img src="https://github.com/user-attachments/assets/b4cad92d-e1fe-42c7-b202-123ef123bbb5" alt="도서 검색" width="300"/>
 ![상세한 도서 정보]<img width="965" alt="Image" src="https://github.com/user-attachments/assets/0f9229d9-9b87-4b15-8048-cf2858108ab1" alt="상세한 도서 정보" width="300"/>
 ![대출 화면]<img src="https://github.com/user-attachments/assets/674114f1-b2f7-425d-a22d-456d7585565d" alt="대출 화면" width="400"/>
