@@ -102,6 +102,34 @@ src/
 
 
 ## 📋 실행 결과
+### 🔍 주요 기능 미리보기
+![메인 메뉴 화면]<img src="https://github.com/user-attachments/assets/9ac79af8-a125-40ca-8e58-d40b701cfe02" alt="메인 메뉴 화면" width="400"/>
+![도서 검색]<img src="https://github.com/user-attachments/assets/b4cad92d-e1fe-42c7-b202-123ef123bbb5" alt="도서 검색" width="300"/>
+![상세한 도서 정보]<img width="965" alt="Image" src="https://github.com/user-attachments/assets/0f9229d9-9b87-4b15-8048-cf2858108ab1" alt="상세한 도서 정보" width="300"/>
+![대출 화면]<img src="https://github.com/user-attachments/assets/674114f1-b2f7-425d-a22d-456d7585565d" alt="대출 화면" width="400"/>
+
+<details>
+<summary>📷 전체 실행 화면 보기 (15개)</summary>
+
+### 🏠 시작 화면
+![초기 메뉴 화면]<img src="https://github.com/user-attachments/assets/0cdcb26e-bde1-4e61-bdc5-818bbdc55242" alt="초기 메뉴 화면" width="300"/>
+
+### 👤 회원 관리
+![회원 가입 화면]<img src="https://github.com/user-attachments/assets/51bd54db-9562-4d9e-b16d-5cb223d3a554" alt="회원가입 화면" width="400"/>
+![회원가입 전 DB]<img src="https://github.com/user-attachments/assets/2703c4aa-9b1c-4d88-887f-9dd76842cc26" alt="회원가입 전 DB" width="500"/> 
+![회원 가입 후 DB]<img src="https://github.com/user-attachments/assets/17a928ae-0b5f-4265-8822-bb645f843769" alt="회원가입 후 DB" width="500"/>
+![메인 메뉴 화면]<img src="https://github.com/user-attachments/assets/9ac79af8-a125-40ca-8e58-d40b701cfe02" alt="메인 메뉴 화면" width="400"/>
+![마이페이지]<img src="https://github.com/user-attachments/assets/c4e61a4d-f06d-4e0c-bfd0-3983d378cf8d" alt="마이페이지" width="400"/>
+
+### 📚 도서 기능
+![도서 검색](이미지경로)
+![검색 결과](이미지경로)
+![상세한 도서 정보](이미지경로)
+![카테고리 검색](이미지경로)
+![검색 결과](이미지경로)
+
+
+
 | 초기 메뉴 화면 | 회원가입 화면 |
 |:--------------:|:-------------:|
 | <img src="https://github.com/user-attachments/assets/0cdcb26e-bde1-4e61-bdc5-818bbdc55242" alt="초기 메뉴 화면" width="300"/> | <img src="https://github.com/user-attachments/assets/51bd54db-9562-4d9e-b16d-5cb223d3a554" alt="회원가입 화면" width="400"/> |
