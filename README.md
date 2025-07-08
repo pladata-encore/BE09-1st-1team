@@ -70,7 +70,8 @@ src/
 
 ## 📋 프로젝트 문서
 - [📋 기획서](https://www.notion.so/coffit23/22aa02b1ffb1807e9224f60965b2321d)
-- [📋 요구사항 정의서](https://www.notion.so/coffit23/22aa02b1ffb180768452fbb63660b98f)  
+- [📋 요구사항 정의서](https://www.notion.so/coffit23/22aa02b1ffb180768452fbb63660b98f)
+- [📋 요구사항 명세서](https://www.notion.so/coffit23/1dca02b1ffb181309df5d48ea4f17f23)
 - [📋 스토리보드](https://docs.google.com/document/d/1dT8QB0bRtqU7c-iLxwGUXjOcIW8KlG4hMT0vT1yrZoU/edit?usp=sharing)
 - [📋 MSA 설계서](https://www.notion.so/coffit23/MSA-22aa02b1ffb180b5810df84f657d1a93)
 
@@ -91,7 +92,7 @@ src/
 ![Image](https://github.com/user-attachments/assets/7ee0107d-41e4-46e3-a2ad-2aaafd15adbb)
 
 
-### 상세 명세는 아래 이미지 참조  
+### 요구사항 명세서 이미지로 미리보기  
 
 ![Image](https://github.com/user-attachments/assets/e8a8b571-a382-426b-902c-89ee5a28a365)
 
