@@ -87,16 +87,17 @@ src/
 2. `application.properties` 또는 `DBUtil.java`에 DB 연결 정보 설정
 3. `Main.java` 실행
 
+## 📋 요구사항 명세서
+📷 [이미지로 미리보기](#요구사항-명세서-미리보기)
 
-## 📸 스크린샷
+<details>
+<summary>요구사항 명세서 미리보기</summary>
 
-### 유사프로그램 분석 자료 
-- 메인 화면과 도서 검색
-![Image](https://github.com/user-attachments/assets/83dccda4-394b-4b1e-ac93-419a77512d2e)
+![Image](https://github.com/user-attachments/assets/e8a8b571-a382-426b-902c-89ee5a28a365)
+![Image](https://github.com/user-attachments/assets/5d0cf156-dc16-4c7f-b586-5e53803c1c75)
+![Image](https://github.com/user-attachments/assets/f7048cba-efd1-4ed3-8e51-03e300faa95e)
 
-- 도서 상세 정보
-![Image](https://github.com/user-attachments/assets/7ee0107d-41e4-46e3-a2ad-2aaafd15adbb)
-
+</details>
 
 ### 요구사항 명세서 이미지로 미리보기  
 
@@ -106,7 +107,10 @@ src/
 
 ![Image](https://github.com/user-attachments/assets/f7048cba-efd1-4ed3-8e51-03e300faa95e)
 
-## 📷 실행화면
+
+
+
+## 📸 스크린샷
 
 ### 🔍 주요 기능 미리보기
 
