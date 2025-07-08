@@ -56,9 +56,9 @@ src/
 ```
 
 ## 📋 프로젝트 문서
-- [📋 기획서](./docs/planning.md)
-- [📋 요구사항 정의서](./docs/requirements.md)  
-- [📋 스토리보드](./docs/storyboard.md)
+- [📋 기획서](https://www.notion.so/coffit23/22aa02b1ffb1807e9224f60965b2321d)
+- [📋 요구사항 정의서](https://www.notion.so/coffit23/22aa02b1ffb180768452fbb63660b98f)  
+- [📋 스토리보드](https://docs.google.com/document/d/1dT8QB0bRtqU7c-iLxwGUXjOcIW8KlG4hMT0vT1yrZoU/edit?usp=sharing)
 - [📋 MSA 설계서](https://www.notion.so/coffit23/MSA-22aa02b1ffb180b5810df84f657d1a93)
 
 
@@ -97,9 +97,6 @@ src/
 ![Image](https://github.com/user-attachments/assets/f7048cba-efd1-4ed3-8e51-03e300faa95e)
 
 ## 📑 참고 자료
-요구사항 명세서 : [스토리보드](https://docs.google.com/document/d/1dT8QB0bRtqU7c-iLxwGUXjOcIW8KlG4hMT0vT1yrZoU/edit?usp=sharing)
-
-
 참고 사이트 : [경기도사이버도서관](https://www.library.kr/cyber/)
 
 
